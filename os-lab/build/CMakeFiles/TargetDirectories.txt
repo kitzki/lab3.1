@@ -1,0 +1,17 @@
+/workspaces/lab3.1/os-lab/build/CMakeFiles/fork_demo.dir
+/workspaces/lab3.1/os-lab/build/CMakeFiles/exec_demo.dir
+/workspaces/lab3.1/os-lab/build/CMakeFiles/pipe_demo.dir
+/workspaces/lab3.1/os-lab/build/CMakeFiles/pipeline_demo.dir
+/workspaces/lab3.1/os-lab/build/CMakeFiles/zombie_demo.dir
+/workspaces/lab3.1/os-lab/build/CMakeFiles/ch1_single_fork.dir
+/workspaces/lab3.1/os-lab/build/CMakeFiles/ch2_multi_child.dir
+/workspaces/lab3.1/os-lab/build/CMakeFiles/ch3_exec_ls.dir
+/workspaces/lab3.1/os-lab/build/CMakeFiles/ch4_exec_worker.dir
+/workspaces/lab3.1/os-lab/build/CMakeFiles/ch5_exec_examples.dir
+/workspaces/lab3.1/os-lab/build/CMakeFiles/ch6_pipe_sum.dir
+/workspaces/lab3.1/os-lab/build/CMakeFiles/ch7_pipeline.dir
+/workspaces/lab3.1/os-lab/build/CMakeFiles/ch8_wait_nonblock.dir
+/workspaces/lab3.1/os-lab/build/CMakeFiles/ch9_zombie.dir
+/workspaces/lab3.1/os-lab/build/CMakeFiles/ch10_pool.dir
+/workspaces/lab3.1/os-lab/build/CMakeFiles/edit_cache.dir
+/workspaces/lab3.1/os-lab/build/CMakeFiles/rebuild_cache.dir
