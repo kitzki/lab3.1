@@ -1,6 +1,4 @@
-# OS Lab - Known Issues & Challenges
-
-This file lists common problems encountered while working on OS Lab C files (`worker.c`, `ch_4.c`, etc.) and tips to avoid them.
+# OS Lab3.1 - Issues & Challenges
 
 ## File & Compilation Issues
 
