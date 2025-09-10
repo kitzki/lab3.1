@@ -19,10 +19,4 @@ This file lists common problems encountered while working on OS Lab C files (`wo
   - Ensure correct relative paths in compilation commands and Makefiles.
   - Watch out for trailing slashes and case sensitivity in folder and file names.
 
-## Makefile Tips
-
-- Paths in rules must match actual folder structure.
-- Example:
-  ```makefile
-  worker: challenges/worker.c
-      gcc challenges/worker.c -o worker
+Generally speaking, everything was steady going except challenge 4. Having to compile the worker.c file and ./ch4.. was challenging.
